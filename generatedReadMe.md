@@ -1,7 +1,7 @@
 
-# [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# undefined
 # [repoName](#repoName)
-a
+Read me Generator
 ## Table of Contents  
 * [description](#description)  
 * [installation](#installation) 
@@ -12,20 +12,20 @@ a
 * [github](#github)  
 * [email](#email)  
 ## Description
-ds
+Creating easy to access readme using node.js
 ## Installation
-sd
+n/a
 ## Usage
-afs
+This can be used for any project or even change details to make it form based to get information.
 ## Contributers
-fdasdf
+Marco Ferreira, Classmates, & especially the teachers.
 ## License
-MIT
+N/A
 ## Test
-asf
+n/a
 # Questions
 #### for more information please contact me on github or email
 ## Github
-    asdf
+    github.com/MarcoFerreira07
 ## Email
-    
+    marcoasf.com@gmail.com
